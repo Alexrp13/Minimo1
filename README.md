@@ -1,1 +1,1 @@
-# Minimo1
+#Realización mínimo 1
